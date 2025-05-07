@@ -77,4 +77,7 @@ span {
 table {
   border-collapse: collapse;
   border: 0;
+  width: 100%;
+  position: relative;
+  margin: 3rem;
 }
